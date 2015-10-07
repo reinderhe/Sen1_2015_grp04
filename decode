@@ -1,6 +1,0 @@
-echo # Sen1_2015_grp04 >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/reinderhe/Sen1_2015_grp04.git
-git push -u origin master
